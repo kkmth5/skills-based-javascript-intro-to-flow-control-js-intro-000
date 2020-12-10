@@ -1,4 +1,4 @@
-function basicTeenager(age) {
+function basicteenager () {
 
 }
 
@@ -6,8 +6,8 @@ function teenager(age) {
 
 }
 
-function ageChecker(age) {
-
+function agechecker(age) {
+canGo(lightColor);
 }
 
 function ternaryTeenager(age) {
